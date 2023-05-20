@@ -1,0 +1,30 @@
+button {
+    width: 84px;
+    height: 34px;
+    border: none;
+    background-color: white;
+
+    font-size: 16px;
+    color: #6441a5;
+    border: 1px solid #6441a5;
+    border-radius: 5px;
+
+
+
+}
+
+.BtnContainer {
+    width: 95%;
+    height: 70px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+span {
+    position: relative;
+    color: #6441a5;
+    font-size: 18px;
+    font-weight: 400;
+
+}
